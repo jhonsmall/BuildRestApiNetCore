@@ -1,0 +1,7 @@
+###
+GET http://localhost:5000/v1/Products HTTP/1.1
+content-type: application/json; charset=utf-8
+
+###
+GET http://localhost:5000/v1/products?offset=15&department=electronics HTTP/1.1
+content-type: application/json; charset=utf-8

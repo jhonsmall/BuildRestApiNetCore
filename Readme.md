@@ -35,3 +35,21 @@ JsonDocumentPatch:
 ```shell
 > dotnet add package Microsoft.AspNetCore.Mvc.NewtonsoftJson
 ```
+
+restore:
+
+```shell
+> dotnet restore
+```
+
+build:
+
+```shell
+> dotnet build
+```
+
+run:
+
+```shell
+> dotnet run
+```
